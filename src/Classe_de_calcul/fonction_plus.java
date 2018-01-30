@@ -1,5 +1,5 @@
 package Classe_de_calcul;
 
-public class classe {
+public class fonction_plus {
 
 }
